@@ -1,4 +1,4 @@
-## 🖥️ TeamViewer Setup Guide
+## 🖥️ TeamViewer Setup Guide | Use on linux
 
 ### ✅ What is TeamViewer?
 
